@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1, tvg-logo="", Bhediya
+https://assets-1.entertainvideo.com/assets/media/2c95a18498261d6564ae77d10c0d9f43/dash/25bac4684b13b2087c65b528314edfa3.mpd
+
+#EXTINF:-1, tvg-logo="", Snowman(Punjabi)
+https://assets-1.entertainvideo.com/assets/media/3299e2ece91b4eeda4279d91c920d32e/dash/c20320c41ad609ef2b3320cc7121dd51.mpd
+#EXTINF:-1, tvg-logo="",Nishana (Punjabi)
+https://assets-1.mypowerdisk.com/transcode_video/ab4f9c256d3a7bf7a90db2179f1089ca/dash/4bf9cfddaea357f6a176570ed3612b58.mpd
+
+#EXTINF:-1, tvg-logo="",@movies_ok02 Ant Man And The Wasp Quantumania
+https://assets-1.mypowerdisk.com/transcode_video/3cda12c3ff3f0212c9e9e6739e981391/dash/3d73f3d43a4ec344157f93d6cac8c263.mpd
+
+#EXTINF:-1, tvg-logo="",Snowman_2022_New_Punjabi_Full_Movie_PreDVD_720p_Filmy4Cab.mkv
+https://assets-1.entertainvideo.com/assets/media/3299e2ece91b4eeda4279d91c920d32e/dash/c20320c41ad609ef2b3320cc7121dd51.mpd

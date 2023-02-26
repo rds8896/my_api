@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Welcome to FlaskBlog {% endblock %}</h1>
+    {% for url in urls %}
+        <a href="{{ url_for('url', url_id=url['id']) }}">
+            <h2>{{ url['filename'] }}</h2>
+        </a>
+        <span class="badge badge-primary">{{ url['url'] }}</span>
+        <hr>
+    {% endfor %}
+{% endblock %}

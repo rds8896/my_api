@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>{% block title %} {{ url['filename'] }} {% endblock %}</h2>
+    <video autoplay="autoplay" controls="controls" preload="preload">
+        <source src="{{ url['url'] }}" type="video/md5"></source>
+    </video>
+    <span class="badge badge-primary">{{ url['url'] }}</span>
+{% endblock %}
